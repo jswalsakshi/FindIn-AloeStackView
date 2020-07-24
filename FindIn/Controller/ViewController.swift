@@ -26,5 +26,9 @@ class ViewController: AloeStackViewController {
         navigationItem.title = "User Detail"
         navigationController?.navigationBar.titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
     }
+    
+    func setUpView() {
+        
+    }
 }
 
