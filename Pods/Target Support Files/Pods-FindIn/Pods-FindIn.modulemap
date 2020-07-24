@@ -1,0 +1,6 @@
+framework module Pods_FindIn {
+  umbrella header "Pods-FindIn-umbrella.h"
+
+  export *
+  module * { export * }
+}
